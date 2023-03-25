@@ -1,1 +1,2 @@
 loralib
+git+ssh://git@github.com/facebookresearch/llama.git
